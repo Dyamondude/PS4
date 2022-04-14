@@ -1,0 +1,78 @@
+@charset "UTF-8";
+
+/* CSS Variable */
+
+:root {
+    --primary: #ddd;
+    --dark: #333;
+    --light: #fff;
+    --shadow: 0 1px 5px blue;
+}
+
+.wrapper {
+    display: grid;
+    gap: 20px;
+}
+
+img {
+    max-width: 100%;
+}
+
+html {
+    box-sizing: border-box;
+    font-family: sans-serif;
+    color: white;
+}
+
+body {
+    background-image:url(PS4\ symbol.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin: 30px 50px;
+    line-height: 1.4;
+}
+
+.main-nav ul {
+    display: grid;
+    gap: 35px;
+    padding: 0;
+    list-style: none;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+.main-nav a {
+
+    background: linear-gradient(to right, blue, white);
+    display: block;
+    text-decoration: none;
+    padding: 0.8rem;
+    text-align: center;
+    color: white;
+    text-transform: uppercase;
+    font-size: 1.05rem;
+    box-shadow: var(--shadow);
+    border-radius: 15px 1px 15px 1px;
+    }
+
+.main-nav a:hover {
+    background: rgb(26, 26, 26);
+    color: rgb(211, 188, 58);
+}
+
+/*header h2:hover {
+    color: rgb(105, 157, 236);
+}*/
+
+
+
+.name a:link, .name a:visited {
+    background-color: #4bd5ff;
+    color: rgb(238, 255, 0);
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 30px 30px 30px 30px;
+    line-height: 0.5em;
+  }
