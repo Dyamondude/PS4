@@ -14,7 +14,7 @@ There is even a Te Reo Maori option which shows all the information in Maori (I 
 
 ### My Design Process
 
--Layout
--Colour
--Font(s)
--Navigation (Site Map)
+- Layout
+- Colour
+- Font(s)
+- Navigation (Site Map)
