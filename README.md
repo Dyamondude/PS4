@@ -14,8 +14,8 @@ There is even a Te Reo Maori option which shows all the information in Maori (I 
 
 ### My Design Process
 
-*Layout1
-*CSS Grid with options for multiple areas for image text content
+* Layout1
+* CSS Grid with options for multiple areas for image text content
 -Colour
 -Font(s)
 -Navigation (Site Map)
