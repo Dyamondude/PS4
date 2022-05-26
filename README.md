@@ -14,6 +14,9 @@ There is even a Te Reo Maori option which shows all the information in Maori (I 
 
 ### My Design Process
 
+- Colour
+* The colousr I have chosen for the home page is taken from the hero image of that page.
+* The website that I used for this is [**colorexplorer.com**](http://www.colorexplorer.com/imageimport.aspx)
 - Layout
 - Colour
 - Font(s)
